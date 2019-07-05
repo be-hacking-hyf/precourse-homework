@@ -5,11 +5,11 @@
 | | your emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
 | :egg: [take 5 days of notes](./notes.md) | | | | |
-| :egg: [install some software](https://github.com/be-hacking-hyf/precourse/blob/master/5-dev-environment.md)  | | | | |
-| :hatching_chick: [pull request your bio](https://github.com/HackYourFutureBEHomework/class-6/tree/master/student-bios) | | | | |
+| :egg: [install some software](https://github.com/be-hacking-hyf/precourse/blob/master/5-dev-environment.md)  | |  | | |
+| :hatching_chick: [pull request your bio](https://github.com/HackYourFutureBEHomework/class-6/tree/master/student-bios) | | (share a link here) | | |
 | :hatched_chick: [learngitbranching - introduction](http://learngitbranching.js.org/)  | | ([upload a screenshot to your homework repo](http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html), link to it here) | | |
-| :hatched_chick: [build a personal home page](https://glitch.com) 
-| :hatched_chick: [move your site to github pages](http://jmcglone.com/guides/github-pages/)
+| :hatched_chick: [build a personal home page](https://glitch.com)  | | (share a link here) | | |
+| :hatched_chick: [move your site to github pages](http://jmcglone.com/guides/github-pages/) | | (share a link here) | | |
 
 > Read [the homework guide](https://github.com/be-hacking-hyf/homework-checkoff-tables) for some help figuring this all out.
 
